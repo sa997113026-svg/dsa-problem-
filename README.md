@@ -20,4 +20,12 @@ here i solve dsa questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
