@@ -8,6 +8,7 @@ here i solve dsa questions
 | ------- |
 | [0001-two-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -27,6 +28,7 @@ here i solve dsa questions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 | [1768-merge-strings-alternately](https://github.com/sa997113026-svg/dsa-problem-/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -37,4 +39,20 @@ here i solve dsa questions
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
