@@ -11,6 +11,7 @@ here i solve dsa questions
 | [0018-4sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -25,6 +26,7 @@ here i solve dsa questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -64,4 +66,8 @@ here i solve dsa questions
 | ------- |
 | [0015-3sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0018-4sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
