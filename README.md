@@ -7,6 +7,7 @@ here i solve dsa questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
@@ -39,6 +40,7 @@ here i solve dsa questions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/sa997113026-svg/dsa-problem-/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -70,4 +72,8 @@ here i solve dsa questions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
