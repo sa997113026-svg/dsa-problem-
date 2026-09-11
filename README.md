@@ -46,6 +46,7 @@ here i solve dsa questions
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -76,4 +77,16 @@ here i solve dsa questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
