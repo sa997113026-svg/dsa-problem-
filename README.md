@@ -13,6 +13,7 @@ here i solve dsa questions
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0704-binary-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -52,6 +53,7 @@ here i solve dsa questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
