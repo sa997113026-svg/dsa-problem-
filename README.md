@@ -11,6 +11,7 @@ here i solve dsa questions
 | [0015-3sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0090-subsets-ii) |
@@ -100,6 +101,11 @@ here i solve dsa questions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
