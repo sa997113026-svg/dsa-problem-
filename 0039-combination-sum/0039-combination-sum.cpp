@@ -23,6 +23,7 @@ public:
 
         // Choose current element
         combin.push_back(arr[idx]);
+        //element exist
 
         // Single use
         getallcombinations(arr, idx + 1, tar - arr[idx], ans, combin);
