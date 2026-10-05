@@ -46,6 +46,7 @@ here i solve dsa questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
+| [0131-palindrome-partitioning](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/sa997113026-svg/dsa-problem-/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -88,6 +89,7 @@ here i solve dsa questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -104,6 +106,7 @@ here i solve dsa questions
 | [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
