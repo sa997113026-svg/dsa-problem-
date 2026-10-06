@@ -10,6 +10,7 @@ here i solve dsa questions
 | [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
@@ -41,6 +42,7 @@ here i solve dsa questions
 | ------- | ------- |
 | [0015-3sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
