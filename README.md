@@ -4,8 +4,8 @@ here i solve dsa questions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0015-3sum) |
@@ -15,94 +15,97 @@ here i solve dsa questions
 | [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0704-binary-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 | [1768-merge-strings-alternately](https://github.com/sa997113026-svg/dsa-problem-/tree/master/1768-merge-strings-alternately) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/sa997113026-svg/dsa-problem-/tree/master/1768-merge-strings-alternately) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0704-binary-search) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0088-merge-sorted-array/) | Easy |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0039-combination-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
@@ -110,7 +113,7 @@ here i solve dsa questions
 | [0090-subsets-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
