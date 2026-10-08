@@ -18,6 +18,7 @@ here i solve dsa questions
 | [0078-subsets](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0704-binary-search) |
@@ -48,6 +49,7 @@ here i solve dsa questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 | [1768-merge-strings-alternately](https://github.com/sa997113026-svg/dsa-problem-/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -60,6 +62,7 @@ here i solve dsa questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
