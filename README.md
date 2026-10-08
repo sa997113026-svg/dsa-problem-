@@ -21,16 +21,19 @@ here i solve dsa questions
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0704-binary-search) |
+| [2596-check-knight-tour-configuration](https://github.com/sa997113026-svg/dsa-problem-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/sa997113026-svg/dsa-problem-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/sa997113026-svg/dsa-problem-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +121,12 @@ here i solve dsa questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sa997113026-svg/dsa-problem-/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sa997113026-svg/dsa-problem-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 <!---LeetCode Topics End-->
