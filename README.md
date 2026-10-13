@@ -40,6 +40,7 @@ here i solve dsa questions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -50,6 +51,7 @@ here i solve dsa questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
@@ -87,6 +89,7 @@ here i solve dsa questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -141,6 +144,7 @@ here i solve dsa questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
