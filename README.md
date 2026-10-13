@@ -106,6 +106,7 @@ here i solve dsa questions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |
@@ -132,4 +133,8 @@ here i solve dsa questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/sa997113026-svg/dsa-problem-/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
