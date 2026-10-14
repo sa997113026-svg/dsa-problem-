@@ -113,6 +113,7 @@ here i solve dsa questions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -143,6 +144,7 @@ here i solve dsa questions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0206-reverse-linked-list/) | Easy |
