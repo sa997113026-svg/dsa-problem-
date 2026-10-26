@@ -136,6 +136,7 @@ here i solve dsa questions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/sa997113026-svg/dsa-problem-/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -148,5 +149,10 @@ here i solve dsa questions
 | [0141-linked-list-cycle](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
