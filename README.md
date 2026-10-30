@@ -20,6 +20,7 @@ here i solve dsa questions
 | [0090-subsets-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0704-binary-search) |
 | [2596-check-knight-tour-configuration](https://github.com/sa997113026-svg/dsa-problem-/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -41,6 +42,7 @@ here i solve dsa questions
 | [0001-two-sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sa997113026-svg/dsa-problem-/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -155,4 +157,12 @@ here i solve dsa questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
