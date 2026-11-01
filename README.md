@@ -48,6 +48,7 @@ here i solve dsa questions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -62,6 +63,7 @@ here i solve dsa questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0151-reverse-words-in-a-string) |
@@ -110,6 +112,7 @@ here i solve dsa questions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -170,4 +173,8 @@ here i solve dsa questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0155-min-stack/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
