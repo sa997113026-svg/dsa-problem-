@@ -160,9 +160,14 @@ here i solve dsa questions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0496-next-greater-element-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
