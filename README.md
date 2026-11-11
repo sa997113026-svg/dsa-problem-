@@ -16,6 +16,7 @@ here i solve dsa questions
 | [0051-n-queens](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/sa997113026-svg/dsa-problem-/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0189-rotate-array/) | Medium |
@@ -165,11 +166,13 @@ here i solve dsa questions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -179,4 +182,8 @@ here i solve dsa questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sa997113026-svg/dsa-problem-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
